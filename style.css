@@ -69,7 +69,9 @@ b {
 }
 .norilsk:hover {
   background-image: url("nowilsk12000.jpg");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .kamchatka {
   margin-top: 20px;
@@ -85,7 +87,9 @@ b {
 }
 .kamchatka:hover {
   background-image: url("kamchatka12000.webp");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .london {
   margin-bottom: 20px;
@@ -100,7 +104,9 @@ b {
 }
 .london:hover {
   background-image: url("london12000.jpg");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .voronezh {
   margin-bottom: 20px;
@@ -115,7 +121,9 @@ b {
 }
 .voronezh:hover {
   background-image: url("voronezh12000.jpg");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .deutchland {
   margin-bottom: 20px;
@@ -131,7 +139,9 @@ b {
 }
 .deutchland:hover {
   background-image: url("deutch12000.jpg");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .warsaw {
   display: flex;
@@ -146,7 +156,9 @@ b {
 }
 .warsaw:hover {
   background-image: url("warsaw12000.jpg");
-  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
 }
 .sv {
   width:240px;

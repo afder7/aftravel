@@ -71,6 +71,7 @@ b {
   background-image: url("nowilsk12000.jpg");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
+        -moz-transition-duration: 0.5s;
           transition-duration: 0.5s;
 }
 .kamchatka {
@@ -89,7 +90,8 @@ b {
   background-image: url("kamchatka12000.webp");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
-          transition-duration: 0.5s;
+         -moz-transition-duration: 0.5s;
+            transition-duration: 0.5s;
 }
 .london {
   margin-bottom: 20px;
@@ -106,7 +108,8 @@ b {
   background-image: url("london12000.jpg");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
-          transition-duration: 0.5s;
+          -moz-transition-duration: 0.5s;
+            transition-duration: 0.5s;
 }
 .voronezh {
   margin-bottom: 20px;
@@ -123,6 +126,7 @@ b {
   background-image: url("voronezh12000.jpg");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
+       -moz-transition-duration: 0.5s;
           transition-duration: 0.5s;
 }
 .deutchland {
@@ -141,7 +145,8 @@ b {
   background-image: url("deutch12000.jpg");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
-          transition-duration: 0.5s;
+          -moz-transition-duration: 0.5s;
+           transition-duration: 0.5s;
 }
 .warsaw {
   display: flex;
@@ -158,6 +163,7 @@ b {
   background-image: url("warsaw12000.jpg");
   -webkit-transition-duration: 0.5s;
        -o-transition-duration: 0.5s;
+        -moz-transition-duration: 0.5s;
           transition-duration: 0.5s;
 }
 .sv {
